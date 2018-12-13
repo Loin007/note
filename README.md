@@ -1,1 +1,5 @@
-![Alt text](https://h2a.appsimg.com/a.appsimg.com/upload/flow/2018/06/20/44/15294792899457.jpg 'tupian')
+姓名|技能|排行
+--|:--:|--:
+刘备|哭|大哥
+关羽|打|二哥
+张飞|骂|三弟
