@@ -9,4 +9,5 @@ Markdown是一种轻量级标记语言，它允许人们使用易读易写的纯
 3. 各大平台支持，Github文档默认是Markdown格式的，方便技术同学编写文档说明、可以使用GitHub与Gitbook写电子书。
 
 ### 如何用Markdown？
-#### 基本语法
+#### 基本语法：
+> nihao
